@@ -1,5 +1,4 @@
 cat <<EOF > .gitignore
-deno.lock
 .vscode/
 .DS_Store
 EOF
