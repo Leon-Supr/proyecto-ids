@@ -1,6 +1,3 @@
-?]
-?]4
-[?]
 [A
 [A
 [A
@@ -55,13 +52,9 @@
 [Vajon
 [Valasz
 ][Pufajkas
-]12
-]19
-]7
 ]Az
 ==A
 ==HAZAI
->>
 30N
 30Nemzet
 abban

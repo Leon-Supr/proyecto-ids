@@ -23,14 +23,9 @@
 [Vajon
 ]A
 *Cshorszagba
-++++++
-+381
-+381
 +Kereszteny
 =Olajgate
 =REGIONALIS
->>
-$6
 000NEMETORSZAGDEUTSCHE
 00ADRIA
 05Nemzet
@@ -60,7 +55,6 @@ $6
 80E
 85Magyarorszagra
 8624755Kulfoldon
-89*
 90Lengyelorszag
 99SVAJCSWISS
 a30

@@ -1,4 +1,3 @@
-!]
 't
 [A
 [Az
@@ -23,12 +22,9 @@
 [Teljes
 [Valasztas
 [who]
-]3
 ]A
 ]Az
 ]Megrovast
-+36
-+36
 ==[NYILT
 ==HAZAI
 ==KE'T
@@ -36,13 +32,8 @@
 ==MAGYAR
 ==REGIONALIS
 ==Remetehegyi
->>
-$109
-$300
-$800
 03N
 03Nemzet
-1956]
 99Budapest
 abban
 abban

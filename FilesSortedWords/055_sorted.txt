@@ -1,6 +1,3 @@
-$3
-$75
-$9
 about
 accepted
 air

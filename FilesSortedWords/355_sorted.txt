@@ -1,6 +1,5 @@
 ______________The
 __________Date
-'93
 [A
 [A
 [Akademiai
@@ -30,9 +29,6 @@ __________Date
 =A
 =DEMOKRATA
 =REGIONALIS
->>
-$300
-$40
 0400To
 08Nemzet
 08Subject

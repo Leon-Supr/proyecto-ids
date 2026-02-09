@@ -1,8 +1,4 @@
 'CM'
-**2
-**2
-**2
-**2
 +SVH
 +SvvSvv*
 2Byte
@@ -15,8 +11,6 @@
 2m
 2ShvShv*
 2ShvShv*
-5]
-5]}
 addition
 additionally
 AIRSAR

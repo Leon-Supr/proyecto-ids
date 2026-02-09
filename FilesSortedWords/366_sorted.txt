@@ -1,7 +1,3 @@
-!!!!]
-'83
-'93
-[!!!
 [<<ez
 [A
 [Ami
@@ -27,10 +23,7 @@
 ][Az
 ]Szinten
 ]Traian
-+4
 =KUNCZE
->>
-$400
 10szazaleka
 12Nemzet
 12Subject

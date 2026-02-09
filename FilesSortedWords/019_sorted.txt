@@ -1,6 +1,5 @@
 [journalists]
 [stationed
-$30
 able
 able
 about

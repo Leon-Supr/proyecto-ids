@@ -1,6 +1,3 @@
-$100
-$5000
-$70
 ability
 ability
 able

@@ -1,5 +1,4 @@
 *Office
-$4
 about
 ACADEMIC
 administration

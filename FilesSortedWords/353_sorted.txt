@@ -1,4 +1,3 @@
-!!
 [a
 [a
 [A
@@ -31,21 +30,9 @@
 ][Keresztenydemokratak
 ][MDF
 ][Ne
-]1
-]2
 ]Az
-***
-***
-****
 ****The
->>
-$1
 $1billion
-$2
-$25
-$6
-$9
-$9
 09Nemzet
 09Subject
 09X

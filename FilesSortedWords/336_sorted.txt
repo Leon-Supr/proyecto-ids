@@ -1,5 +1,4 @@
 ??]A
-[??]
 [<<ez
 [A
 [A
@@ -31,15 +30,11 @@
 ]A
 ]A
 ]A
-+36
-+36
 =D0gyeszseg
 =LOVAS
 =REGIONALIS
->>
 $30million
 14AAAEEALKTqTI1BVtFs63+rV0zPyTQZ3Mi0iNPrFK0SJw71ypW0QM+medOV8X0UZaeKYg455IdB9QfC7tEi7xWZGPSiGbUxlhuN4hTOonFhIRJg2CDE3iG53OSsh2OHRyM3O0ozTnroKKoFax8Wz9wZQsrNQc5fpbx
-18]
 18April
 18Nemzet
 18Subject
@@ -51,7 +46,6 @@ $30million
 38defendants
 427@CompuServe
 487Mobile
-5]
 600millioba
 633Fax
 8805Kedves

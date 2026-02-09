@@ -1,9 +1,4 @@
 ?]A
-[1
-[2
-[3
-[4
-[4
 [A
 [A
 [A
@@ -27,16 +22,9 @@
 [Ujabb
 ]Az
 *TELESZARJAK*
-====
-=====
-======
-======
-=======
 ==NEPSZAVANAK[Lovas
 ==OLIMPIAI
 =HAZAI
->>
-$254
 03Bronze
 0Fencing
 10Hungary

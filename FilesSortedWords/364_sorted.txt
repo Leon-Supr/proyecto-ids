@@ -1,6 +1,4 @@
 ?]A
-'89
-'91
 [Az
 [Az
 [Az
@@ -32,19 +30,9 @@
 ][Botrany
 ][SZDSZ
 ]Hitelt
-<<
 ==DEMOKRATA
 ==REGIONALIS
 =HAZAI
->>
-$2
-$2
-$200
-$40
-$400
-$43
-$650
-$920
 30N
 30Nemzet
 A3

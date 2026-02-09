@@ -8,7 +8,6 @@
 'Years
 'Years
 [Top
-$150
 about
 according
 According

@@ -1,5 +1,3 @@
-$113
-$148
 about
 also
 an

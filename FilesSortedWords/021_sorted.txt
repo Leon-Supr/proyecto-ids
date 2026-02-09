@@ -1,9 +1,7 @@
-!!
 [Home]
 [Mail]
 [Next]
 [Up]
-$5
 AAA
 AAA
 AAA

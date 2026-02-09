@@ -1,5 +1,4 @@
 !!**]This
-???
 ?]Hamarosan
 [**Tehat
 [A
@@ -60,10 +59,6 @@
 ==Olyan
 ==REGIONALIS
 ==ROMAN
->>
-$23
-$315
-$440
 10N
 10Nemzet
 1D

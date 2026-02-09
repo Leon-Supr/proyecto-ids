@@ -1,6 +1,3 @@
-'92
-'93
-[400
 [A
 [A
 [A
@@ -28,7 +25,6 @@
 ]P
 ====Karpotlasi
 ==HAZAI
->>
 16N
 16Nemzet
 1956!]Megalakult

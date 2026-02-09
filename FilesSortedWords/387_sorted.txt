@@ -1,7 +1,4 @@
 [the
-$15
-$20
-$40
 about
 accident
 accident

@@ -29,8 +29,6 @@
 ==HAZAI
 ==Lovas
 ==REGIONALIS
->>
-$2
 0400To
 1970s
 19N

@@ -32,8 +32,6 @@
 ==HAZAI
 ==HORN
 ==REGIONALIS
->>
-$2
 11N
 11Nemzet
 abban

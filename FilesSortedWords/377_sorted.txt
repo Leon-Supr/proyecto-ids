@@ -1,4 +1,3 @@
-[72
 [Halasztodik
 [Harci
 [Jo
@@ -17,12 +16,9 @@
 [Vagyis
 ]Mar
 ]Peldaerteku
-==
 ==OMRI
 ==TallozoAz
 =HAZAI
->>
-$10
 05N
 05Nemzet
 089Against

@@ -2,7 +2,6 @@
 'rocket
 'Space
 'Space
-$795
 activities
 adding
 addition

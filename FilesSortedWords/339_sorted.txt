@@ -8,7 +8,6 @@
 'The
 'The
 'There's
-[?]
 [A
 [A
 [A
@@ -41,8 +40,6 @@
 ==GYORSHIREKAz
 ==HAZAI
 ==REGIONALIS
->>
-$40
 17N
 17Nemzet
 1996Romania

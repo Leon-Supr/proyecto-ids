@@ -15,9 +15,13 @@ const formatCleanHtml = async (fileName: string): Promise<void> => {
   try {
     const fileContent = await readTextFile(`./FilesClean/${fileName}`);
     const words = fileContent
-      .split(/[\s.,()#;:~&%"/-]+/) //Separa por símbolos
-      .filter((w) => w.length > 1) // elimina vacíos y palabras que sean menores a 1 letra
-      .filter((w) => !/^\d+$/.test(w)); // elimina palabras que sean puros números
+      .split(/[\s.,()#;:~&%"/-]+/)
+      .filter((w) => w.length > 1)
+      .filter((w) => !/^\d+$/.test(w))
+      .filter((w) => /[a-zA-Z]/.test(w));
+    // .split(/[\s.,()#;:~&%"/-]+/) //Separa por símbolos
+    // .filter((w) => w.length > 1) // elimina vacíos y palabras que sean menores a 1 letra
+    // .filter((w) => !/^\d+$/.test(w)); // elimina palabras que sean puros números
     const sortedWords = words.sort((a, b) => a.localeCompare(b)); //Ordena alfabéticamente
     const output = sortedWords.join("\n");
     const outputFileName = fileName.replace(/_clean\.txt$/i, "_sorted.txt");

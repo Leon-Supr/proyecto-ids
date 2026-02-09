@@ -1,5 +1,3 @@
-$2
-$6
 aircraft
 Alabama
 Alaska

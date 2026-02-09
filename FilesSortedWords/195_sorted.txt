@@ -1,6 +1,5 @@
 'Certainty
 'Regulators
-$1
 about
 accept
 actual

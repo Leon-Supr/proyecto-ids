@@ -33,9 +33,6 @@
 ==ERTELMISEGIEINK
 ==HAZAI
 ==REGIONALIS
->>
-$33
-$40
 07N
 07Nemzet
 abban

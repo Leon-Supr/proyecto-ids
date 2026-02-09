@@ -1,5 +1,3 @@
-[???]
-[<<
 [a
 [a
 [A
@@ -25,12 +23,9 @@
 [Tehateladtak
 [valahonnan
 [zarojeles]
-]5
 =APRILIS
 =LEVEL
 =PUSZTITO
->>
-$5
 04Nemzet
 04Subject
 04X

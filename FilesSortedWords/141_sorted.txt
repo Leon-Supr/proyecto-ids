@@ -1,5 +1,4 @@
 'Super
-$1
 about
 about
 about

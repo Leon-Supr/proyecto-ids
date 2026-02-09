@@ -1,4 +1,3 @@
-???
 ?Die
 ?The
 'Ludwig
@@ -9,14 +8,11 @@
 [Nepszabadsag?]
 [Zsolnay
 ]==CENZURA
-+36
-+36
 ==Fizet
 ==GLATZ
 ==Lovas
 ==REGIONALIS
 ==SZERB
->>
 0Illes
 0Matuska
 19N

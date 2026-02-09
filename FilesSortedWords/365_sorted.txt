@@ -50,15 +50,7 @@
 ][Huszonketezer
 ]==REGIONALIS
 ]Mint
-<<
 ==Uramisten
->>
-$16
-$20
-$30
-$33
-$4
-$4
 $68URAMISTEN
 11N
 11Nemzet
