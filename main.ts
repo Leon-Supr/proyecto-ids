@@ -1,8 +1,15 @@
+import Alphabetic from "./a4_alphabetic.ts";
+import wordCounter from "./a5_wordCounter.ts";
+import wordCounterTable from "./a6_wordCounterTable.ts";
+
 const { readTextFile, readDir, writeTextFile } = Deno;
 
 const logFile = "a1_leo&franco.txt"; // Log de lectura
 const logFile2 = "a2_leo&franco.txt"; // Limpieza
 const logFile3 = "a3_leo&franco.txt"; // Ordenamiento
+const logFile4 = "a4_leo.txt"; // Consolidación
+const logFile5 = "a5_leo.txt"; // Repetición
+const logFile6 = "a6_leo.txt"; // Repetición por archivo
 
 // Asegurar que existen las carpetas, si no están, crearlas
 const ensureDirectories = async (): Promise<void> => {
@@ -15,13 +22,10 @@ const formatCleanHtml = async (fileName: string): Promise<void> => {
   try {
     const fileContent = await readTextFile(`./FilesClean/${fileName}`);
     const words = fileContent
-      .split(/[\s.,()#;:~&%"/-]+/)
-      .filter((w) => w.length > 1)
-      .filter((w) => !/^\d+$/.test(w))
+      .split(/[\s.,()#;:~&%"/-]+/) //Separa por símbolos
+      .filter((w) => w.length > 1) // elimina vacíos y palabras que sean menores a 1 letra
+      .filter((w) => !/^\d+$/.test(w)) // elimina palabras que sean puros números
       .filter((w) => /[a-zA-Z]/.test(w));
-    // .split(/[\s.,()#;:~&%"/-]+/) //Separa por símbolos
-    // .filter((w) => w.length > 1) // elimina vacíos y palabras que sean menores a 1 letra
-    // .filter((w) => !/^\d+$/.test(w)); // elimina palabras que sean puros números
     const sortedWords = words.sort((a, b) => a.localeCompare(b)); //Ordena alfabéticamente
     const output = sortedWords.join("\n");
     const outputFileName = fileName.replace(/_clean\.txt$/i, "_sorted.txt");
@@ -90,6 +94,39 @@ try {
     }
   }
 
+  //Código act 4 - Consolidación en orden alfabético
+  const start4 = performance.now();
+  await Alphabetic();
+  const end4 = performance.now();
+  const tiempoAct4 = (end4 - start4).toFixed(4);
+  await writeTextFile(
+    logFile4,
+    `\nTiempo total de consolidación ${tiempoAct4} ms`,
+    { append: true },
+  );
+
+  // Llamar a act 5 de repetición de palabras
+  const start5 = performance.now();
+  await wordCounter();
+  const end5 = performance.now();
+  const tiempoAct5 = (end5 - start5).toFixed(4);
+  await writeTextFile(
+    logFile5,
+    `\nTiempo total de conteo palabras ${tiempoAct5} ms`,
+    { append: true },
+  );
+
+  // Llamar a act6 de repetición de palabras
+  const start6 = performance.now();
+  await wordCounterTable();
+  const end6 = performance.now();
+  const tiempoAct6 = (end6 - start6).toFixed(4);
+  await writeTextFile(
+    logFile6,
+    `\nTiempo total de conteo palabras y archivos ${tiempoAct6} ms`,
+    { append: true },
+  );
+
   //Calcula tiempo final y añade esto a archivo final
   const programEnd = performance.now();
   const totalTime = (programEnd - programStart).toFixed(4);
@@ -97,6 +134,9 @@ try {
   await writeTextFile(logFile, totalTimeLine, { append: true });
   await writeTextFile(logFile2, totalTimeLine, { append: true });
   await writeTextFile(logFile3, totalTimeLine, { append: true });
+  await writeTextFile(logFile4, "\n" + totalTimeLine, { append: true });
+  await writeTextFile(logFile5, "\n" + totalTimeLine, { append: true });
+  await writeTextFile(logFile6, "\n" + totalTimeLine, { append: true });
 } catch (globalError: any) {
   console.error("ERROR CRÍTICO:", globalError.message);
 }

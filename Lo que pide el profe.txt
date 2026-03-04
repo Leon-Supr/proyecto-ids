@@ -1,0 +1,5 @@
+- Quiere que la tercera entrega tenga el Sprint planning
+- Antes de presentar el sprint el jueves
+    - Decir el objetivo del sprint
+    - Se cumplió?
+    - Cómo lo saben?
