@@ -98150,5 +98150,5 @@ zbigniew -> 1 times across 1 files
 zsarolasi -> 1 times across 1 files
 zurokkel -> 1 times across 1 files
 zurzavar -> 2 times across 1 files
-Tiempo total de conteo palabras y archivos 252.1389 ms
-Tiempo total de programa: 2158.1894 ms
+Tiempo total de conteo palabras y archivos 267.3915 ms
+Tiempo total de programa: 2282.5776 ms

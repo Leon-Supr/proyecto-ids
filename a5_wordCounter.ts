@@ -13,8 +13,8 @@ const wordCounter = async () => {
 
         const words = fileContent
           .split("\n") //Las separa por línea
-          .map((w) => w.toLowerCase())
-          .sort(); // Hacerla minúscula cada palabra
+          .map((w) => w.toLowerCase()) // Hacerla minúscula cada palabra
+          .sort(); //Ordena
           
 
         for (const word of words) {

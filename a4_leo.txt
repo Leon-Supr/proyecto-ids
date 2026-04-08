@@ -862355,5 +862355,5 @@ z�ld
 ���x
 ���x�g�i��
 ���x����}��²������
-Tiempo total de consolidación 271.4423 ms
-Tiempo total de programa: 2158.1894 ms
+Tiempo total de consolidación 291.8588 ms
+Tiempo total de programa: 2282.5776 ms

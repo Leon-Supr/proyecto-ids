@@ -23,7 +23,7 @@ const Alphabetic = async () => {
     }
   }
 
-  allWordsArray.sort((a, b) => a.localeCompare(b, "es"));
+  allWordsArray.sort((a, b) => a.localeCompare(b, "es")); // Las ordena alfabéticamente, en base al español
   await writeTextFile(logFile4, allWordsArray.join("\n"));
 };
 

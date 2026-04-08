@@ -98150,5 +98150,5 @@ zbigniew -> 1
 zsarolasi -> 1
 zurokkel -> 1
 zurzavar -> 2
-Tiempo total de conteo palabras 170.4145 ms
-Tiempo total de programa: 2158.1894 ms
+Tiempo total de conteo palabras 207.7467 ms
+Tiempo total de programa: 2282.5776 ms
