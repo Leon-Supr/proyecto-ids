@@ -6,7 +6,7 @@ const logFile        = "./a9_stopListFiles/a9_leo.txt";
 
 const MIN_FREQUENCY = 3; // Criterio: eliminar tokens con menos de 3 repeticiones totales
 
-// ─── Stop List ─────────────────────────────────────────────────────────────────
+// Stop List - Palabras sin relevancia
 
 const loadStopList = async (path: string): Promise<Set<string>> => {
   const content = await readTextFile(path);
@@ -17,9 +17,9 @@ const loadStopList = async (path: string): Promise<Set<string>> => {
   return new Set(words);
 };
 
-// ─── Filtros ───────────────────────────────────────────────────────────────────
+// Filtros
 
-const shouldRemove = (
+const shouldRemove = ( // Aclara si quitarlos y da la razón de por qué
   token: string,
   totalFreq: number,
   stopList: Set<string>,
@@ -33,7 +33,7 @@ const shouldRemove = (
   return { remove: false, reason: "" };
 };
 
-// ─── Hash Table (igual que a8) ─────────────────────────────────────────────────
+// Misma estrucutura de HashTable que la actividad 8
 
 interface HashEntry {
   key:        string;
@@ -122,7 +122,7 @@ class HashTable {
   getTableSize() { return this.size; }
 }
 
-// ─── Principal ─────────────────────────────────────────────────────────────────
+// Ejecución de la tarea
 
 const main = async () => {
   const totalStart = performance.now();
@@ -130,14 +130,14 @@ const main = async () => {
   const logLines: string[] = [];
 
   // Cargar stop list
-  const stopList = await loadStopList("./a9_stopListFiles/StopList.txt");
+  const stopList = await loadStopList("./a9_stopListFiles/StopList.txt"); // Pasé las palabras del pdf a txt
 
   // Contadores de filtros para el log
   let removedByStopList  = 0;
   let removedByLength    = 0;
   let removedByFrequency = 0;
 
-  // Paso 1 — leer archivos
+  // Paso 1 - Leer archivos
   const rawStats = new Map<string, Map<string, number>>();
 
   for await (const entry of readDir("./FilesSortedWords")) {
@@ -160,7 +160,7 @@ const main = async () => {
     timings.push({ filename: entry.name, durationMs: performance.now() - fileStart });
   }
 
-  // Paso 2 — aplicar filtros ANTES de insertar en la hash table
+  // Paso 2 - Aplicar filtros del StopList antes de insertar en la hash table
   const filteredStats = new Map<string, Map<string, number>>();
 
   for (const [token, fileMap] of rawStats.entries()) {
@@ -168,7 +168,7 @@ const main = async () => {
     const { remove, reason } = shouldRemove(token, totalFreq, stopList);
 
     if (remove) {
-      if (reason === "stop list")               removedByStopList++;
+      if (reason === "stop list")               removedByStopList++; // Cuenta cuántos se quitaron
       else if (reason.startsWith("frecuencia")) removedByFrequency++;
       else                                      removedByLength++;
     } else {
@@ -176,29 +176,28 @@ const main = async () => {
     }
   }
 
-  // Paso 3 — insertar en hash table solo tokens válidos
+  // Paso 3 - Insertar en hash table solo tokens válidos
   const ht = new HashTable(filteredStats.size);
   for (const [token, fileMap] of filteredStats.entries())
     ht.insert(token, fileMap);
 
-  // Paso 4 — generar archivos
+  // Paso 4 - Generar archivos
   const postingRows    = ht.generatePostingRows();
   const dictionaryRows = ht.generateDictionaryRows();
   const { used, collisions, lookups } = ht.getUsage();
   const totalMs = performance.now() - totalStart;
 
-  // Paso 5 — log
-  logLines.push("# Log de procesamiento — a9_leo");
-  logLines.push(`Fecha: ${new Date().toLocaleString("es-MX")}`);
+  // Paso 5 - Crear log
+  logLines.push("# Log de procesamiento - a9_leo");
   logLines.push("");
-  logLines.push("## Tiempos por archivo");
+  logLines.push(" Tiempos por archivo");
   logLines.push("| Archivo | Tiempo (ms) |");
   logLines.push("|---------|-------------|");
   for (const t of timings)
     logLines.push(`| ${t.filename} | ${t.durationMs.toFixed(3)} |`);
 
   logLines.push("");
-  logLines.push("## Filtros aplicados");
+  logLines.push(" Filtros aplicados");
   logLines.push("| Filtro | Criterio | Tokens eliminados |");
   logLines.push("|--------|----------|-------------------|");
   logLines.push(`| Stop list | Palabras del archivo stoplist.txt | ${removedByStopList} |`);
@@ -206,7 +205,7 @@ const main = async () => {
   logLines.push(`| Frecuencia baja | Menos de ${MIN_FREQUENCY} repeticiones totales | ${removedByFrequency} |`);
 
   logLines.push("");
-  logLines.push("## Resumen");
+  logLines.push(" Resumen");
   logLines.push("| Métrica | Valor |");
   logLines.push("|---------|-------|");
   logLines.push(`| Tokens antes de filtrar | ${rawStats.size} |`);
@@ -219,14 +218,11 @@ const main = async () => {
   logLines.push(`| Factor de carga | ${(used / ht.getTableSize()).toFixed(4)} |`);
   logLines.push(`| Tiempo total | ${totalMs.toFixed(3)} ms |`);
 
-  // Paso 6 — escribir archivos
+  // Paso 6 - escribir archivos
   await Deno.mkdir("./a9_stopListFiles", { recursive: true });
   await writeTextFile(dictionaryFile, dictionaryRows.join("\n"));
   await writeTextFile(postingFile,    postingRows.join("\n"));
   await writeTextFile(logFile,        logLines.join("\n"));
-
-  console.log(`Eliminados — Stop list: ${removedByStopList} | Longitud: ${removedByLength} | Frecuencia: ${removedByFrequency}`);
-  console.log(`Tokens finales: ${filteredStats.size} | Colisiones: ${collisions} | Tiempo: ${totalMs.toFixed(2)} ms`);
 };
 
 await main();

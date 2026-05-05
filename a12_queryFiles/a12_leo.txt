@@ -1,0 +1,39 @@
+LOG DE BÚSQUEDA — a12_leo
+==================================================
+Query:                   user
+Versión:                 con stop list
+Documentos encontrados:  28
+Posición en posting:     213952
+Tiempo de búsqueda:      46.143 ms
+Tiempo total:            76.479 ms
+
+RESULTADOS
+--------------------------------------------------
+1. 214_sorted.txt (tf.idf: 2.6316)
+2. 069_sorted.txt (tf.idf: 2.0619)
+3. 003_sorted.txt (tf.idf: 2.0202)
+4. 061_sorted.txt (tf.idf: 1.4815)
+5. 077_sorted.txt (tf.idf: 1.4815)
+6. 029_sorted.txt (tf.idf: 0.9476)
+7. 224_sorted.txt (tf.idf: 0.9174)
+8. 068_sorted.txt (tf.idf: 0.6734)
+9. 004_sorted.txt (tf.idf: 0.5348)
+10. 502_sorted.txt (tf.idf: 0.5222)
+11. 501_sorted.txt (tf.idf: 0.4231)
+12. 037_sorted.txt (tf.idf: 0.3318)
+13. 086_sorted.txt (tf.idf: 0.3215)
+14. 166_sorted.txt (tf.idf: 0.3160)
+15. 223_sorted.txt (tf.idf: 0.2282)
+16. 027_sorted.txt (tf.idf: 0.1898)
+17. 101_sorted.txt (tf.idf: 0.1546)
+18. 205_sorted.txt (tf.idf: 0.1114)
+19. 005_sorted.txt (tf.idf: 0.0969)
+20. 064_sorted.txt (tf.idf: 0.0889)
+21. 154_sorted.txt (tf.idf: 0.0803)
+22. 146_sorted.txt (tf.idf: 0.0779)
+23. 159_sorted.txt (tf.idf: 0.0747)
+24. 011_sorted.txt (tf.idf: 0.0585)
+25. 266_sorted.txt (tf.idf: 0.0476)
+26. 179_sorted.txt (tf.idf: 0.0320)
+27. 333_sorted.txt (tf.idf: 0.0291)
+28. 181_sorted.txt (tf.idf: 0.0223)

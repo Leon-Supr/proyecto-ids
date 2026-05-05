@@ -1,0 +1,4 @@
+LOG DE PROCESAMIENTO — a11_leo
+==================================================
+Total de documentos:          505
+Tiempo total:                 478.562 ms

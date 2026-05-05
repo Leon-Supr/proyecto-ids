@@ -1,4 +1,4 @@
-#                   Token               Num. documentos     Pos. posting        
+#                   Token               Núm. documentos     Pos. posting        
 --------------------------------------------------------------------------------
 0                   industrializacion   2                   0                   
 1                   signed              46                  2                   

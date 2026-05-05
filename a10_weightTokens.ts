@@ -7,7 +7,7 @@ const logFile = "./a10_weightTokensFiles/a10_leo.txt";
 const MIN_FREQUENCY = 3;
 const STOP_LIST_PATH = "./a9_stopListFiles/StopList.txt";
 
-// ─── Tamaños de columna (divisibles entre 80 bytes) ───────────────────────────
+// Tamaños de columna dividibles entre 80 bytes
 // Diccionario: 4 columnas × 20 bytes = 80 bytes por fila
 // Posting:     2 columnas × 40 bytes = 80 bytes por fila
 const DICT_COL_WIDTH = 20;
@@ -16,7 +16,7 @@ const POSTING_COL_WIDTH = 40;
 const pad = (str: string, width: number): string =>
   str.substring(0, width).padEnd(width, " ");
 
-// ─── Stop List ─────────────────────────────────────────────────────────────────
+// Stop List
 
 const loadStopList = async (path: string): Promise<Set<string>> => {
   const content = await readTextFile(path);
@@ -27,7 +27,7 @@ const loadStopList = async (path: string): Promise<Set<string>> => {
   );
 };
 
-// ─── Filtros ───────────────────────────────────────────────────────────────────
+  // Filtros
 
 const shouldRemove = (
   token: string,
@@ -36,7 +36,7 @@ const shouldRemove = (
 ): boolean =>
   stopList.has(token) || token.length <= 1 || totalFreq < MIN_FREQUENCY;
 
-// ─── Hash Table ────────────────────────────────────────────────────────────────
+// Hash Table
 
 interface HashEntry {
   key: string;
@@ -103,8 +103,9 @@ class HashTable {
     return this.size;
   }
 
-  // ── Posting con tf.idf ──────────────────────────────────────────────────────
-  // totalTokensPerFile: filename → total de tokens en ese documento
+
+  // Posting con tf.idf
+  // totalTokensPerFile: filename, es el total de tokens en ese documento
   generatePostingRows(totalTokensPerFile: Map<string, number>): string[] {
     const header = pad("Nombre del archivo", POSTING_COL_WIDTH) +
       pad("tf.idf", POSTING_COL_WIDTH);
@@ -133,11 +134,11 @@ class HashTable {
     return rows;
   }
 
-  // ── Diccionario con ancho fijo ──────────────────────────────────────────────
+  // Creación de Diccionario con ancho fijo
   generateDictionaryRows(): string[] {
     const header = pad("#", DICT_COL_WIDTH) +
       pad("Token", DICT_COL_WIDTH) +
-      pad("Núm. documentos", DICT_COL_WIDTH) +
+      pad("Num. documentos", DICT_COL_WIDTH) +
       pad("Pos. posting", DICT_COL_WIDTH);
     const separator = "-".repeat(DICT_COL_WIDTH * 4);
     const rows: string[] = [header, separator];
@@ -164,7 +165,9 @@ class HashTable {
   }
 }
 
-// ─── Principal ─────────────────────────────────────────────────────────────────
+
+
+// Ejecución de la tarea
 
 const main = async () => {
   const totalStart = performance.now();
@@ -173,9 +176,9 @@ const main = async () => {
 
   const stopList = await loadStopList(STOP_LIST_PATH);
 
-  // Paso 1 — leer archivos
-  // rawStats:          token → Map<filename, frecuencia>
-  // totalTokensPerFile: filename → total tokens (para tf.idf)
+  // Paso 1 — Leer archivos
+  // rawStats:          token es   Map<filename, frecuencia>
+  // totalTokensPerFile: filename es    total tokens (para tf.idf)
   const rawStats = new Map<string, Map<string, number>>();
   const totalTokensPerFile = new Map<string, number>();
 
@@ -222,21 +225,20 @@ const main = async () => {
     }
   }
 
-  // Paso 3 — insertar en hash table
+  // Paso 3 — Insertar en hash table
   const ht = new HashTable(filteredStats.size);
   for (const [token, fileMap] of filteredStats.entries()) {
     ht.insert(token, fileMap);
   }
 
-  // Paso 4 — generar archivos
+  // Paso 4 — Generar archivos
   const postingRows = ht.generatePostingRows(totalTokensPerFile);
   const dictionaryRows = ht.generateDictionaryRows();
   const { used, collisions, lookups } = ht.getUsage();
   const totalMs = performance.now() - totalStart;
 
-  // Paso 5 — log
+  // Paso 5 — Escribir archivos log
   logLines.push("LOG DE PROCESAMIENTO — a10_leo");
-  logLines.push(`Fecha: ${new Date().toLocaleString("es-MX")}`);
   logLines.push("=".repeat(60));
   logLines.push("");
   logLines.push("TIEMPOS POR ARCHIVO");
@@ -285,6 +287,8 @@ const main = async () => {
   await writeTextFile(dictionaryFile, dictionaryRows.join("\n"));
   await writeTextFile(postingFile, postingRows.join("\n"));
   await writeTextFile(logFile, logLines.join("\n"));
+
+  await writeTextFile("./a10_weightTokensFiles/tablesize.txt", String(ht.getTableSize()));
 };
 
 await main();

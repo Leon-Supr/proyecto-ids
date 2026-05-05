@@ -1,0 +1,331 @@
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer consumer
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:10:56 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | No encontrado | 2596.403 ms
+Token: consumer | No encontrado | 1948.524 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 4595.184 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer hi
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:11:06 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | No encontrado | 2584.861 ms
+Token: hi | Docs: 10 | Posting pos: 7229 | 0.140 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 115_sorted.txt  (score: 0.2237)
+2. 064_sorted.txt  (score: 0.0889)
+3. 354_sorted.txt  (score: 0.0246)
+4. 433_sorted.txt  (score: 0.0123)
+5. 436_sorted.txt  (score: 0.0107)
+6. 373_sorted.txt  (score: 0.0099)
+7. 437_sorted.txt  (score: 0.0096)
+8. 434_sorted.txt  (score: 0.0075)
+9. 043_sorted.txt  (score: 0.0061)
+10. 435_sorted.txt  (score: 0.0039)
+
+Tiempo total: 2631.965 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : customer
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:11:56 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: customer | No encontrado | 2578.681 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 2623.883 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : customer
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:16:30 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: customer | No encontrado | 2816.066 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 2864.467 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : customer
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:19:01 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: customer | No encontrado | 2852.307 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 2852.839 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:19:33 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | No encontrado | 2193.343 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 2193.735 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:21:38 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | No encontrado | 3066.183 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 3066.666 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:24:36 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | No encontrado | 3008.213 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 3008.859 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 4/5/2026, 11:27:04 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | No encontrado | 2886.776 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 2887.196 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:21:50 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.799 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 53.764 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:43:58 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.709 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 34.896 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog shit
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:44:02 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.693 ms
+Token: shit | No encontrado | 0.179 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 37.058 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog customer
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:44:11 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.660 ms
+Token: customer | Docs: 15 | Pos: 91371 | 0.174 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 059_sorted.txt  (score: 0.5882)
+2. 225_sorted.txt  (score: 0.4608)
+3. 038_sorted.txt  (score: 0.1456)
+4. 248_sorted.txt  (score: 0.1003)
+5. 280_sorted.txt  (score: 0.0923)
+6. 179_sorted.txt  (score: 0.0640)
+7. 037_sorted.txt  (score: 0.0474)
+8. 269_sorted.txt  (score: 0.0451)
+9. 181_sorted.txt  (score: 0.0445)
+10. 189_sorted.txt  (score: 0.0418)
+
+Tiempo total: 38.632 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : user
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:52:32 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: user | Docs: 28 | Pos: 213952 | 0.423 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 214_sorted.txt  (score: 2.6316)
+2. 069_sorted.txt  (score: 2.0619)
+3. 003_sorted.txt  (score: 2.0202)
+4. 061_sorted.txt  (score: 1.4815)
+5. 077_sorted.txt  (score: 1.4815)
+6. 029_sorted.txt  (score: 0.9476)
+7. 224_sorted.txt  (score: 0.9174)
+8. 068_sorted.txt  (score: 0.6734)
+9. 004_sorted.txt  (score: 0.5348)
+10. 502_sorted.txt  (score: 0.5222)
+
+Tiempo total: 39.078 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : tech
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:53:37 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: tech | Docs: 14 | Pos: 183610 | 0.936 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 039_sorted.txt  (score: 1.3158)
+2. 194_sorted.txt  (score: 0.5976)
+3. 115_sorted.txt  (score: 0.2237)
+4. 141_sorted.txt  (score: 0.0972)
+5. 119_sorted.txt  (score: 0.0654)
+6. 009_sorted.txt  (score: 0.0497)
+7. 235_sorted.txt  (score: 0.0445)
+8. 433_sorted.txt  (score: 0.0215)
+9. 435_sorted.txt  (score: 0.0196)
+10. 434_sorted.txt  (score: 0.0188)
+
+Tiempo total: 39.336 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : read
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:53:44 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: read | Docs: 33 | Pos: 147474 | 0.477 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 107_sorted.txt  (score: 1.4085)
+2. 128_sorted.txt  (score: 1.0000)
+3. 012_sorted.txt  (score: 0.7092)
+4. 502_sorted.txt  (score: 0.5222)
+5. 118_sorted.txt  (score: 0.4235)
+6. 254_sorted.txt  (score: 0.3127)
+7. 126_sorted.txt  (score: 0.3049)
+8. 089_sorted.txt  (score: 0.3021)
+9. 209_sorted.txt  (score: 0.2404)
+10. 115_sorted.txt  (score: 0.2237)
+
+Tiempo total: 36.516 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : read user
+Versión  : con stop list
+Fecha    : 5/5/2026, 12:53:51 a.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: read | Docs: 33 | Pos: 147474 | 0.421 ms
+Token: user | Docs: 28 | Pos: 213952 | 0.131 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 214_sorted.txt  (score: 2.6316)
+2. 069_sorted.txt  (score: 2.0619)
+3. 003_sorted.txt  (score: 2.0202)
+4. 061_sorted.txt  (score: 1.4815)
+5. 077_sorted.txt  (score: 1.4815)
+6. 107_sorted.txt  (score: 1.4085)
+7. 502_sorted.txt  (score: 1.0444)
+8. 128_sorted.txt  (score: 1.0000)
+9. 029_sorted.txt  (score: 0.9739)
+10. 224_sorted.txt  (score: 0.9174)
+
+Tiempo total: 41.632 ms

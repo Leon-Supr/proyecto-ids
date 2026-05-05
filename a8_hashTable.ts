@@ -4,29 +4,30 @@ const dictionaryFile = "./a8_hashTableFiles/a8_dictionary.md";
 const postingFile = "./a8_hashTableFiles/a8_posting.txt";
 const logFile = "./a8_hashTableFiles/a8_leo.txt";
 
-// ─── Hash Table ────────────────────────────────────────────────────────────────
-
+// Estrucutra de cada entrada en la hashtable
+// Cada entrada debe tendrá estos cuatro datos
 interface HashEntry {
-  key: string;
-  docCount: number;
-  postingPos: number;
-  fileMap: Map<string, number>;
+  key: string; //El token
+  docCount: number; //Documentos que aparece
+  postingPos: number; // Linea del posting donde empiezan sus registros
+  fileMap: Map<string, number>; //Archivos que lo tienen y qué frecuencia
 }
 
 class HashTable {
   private table: HashEntry[];
   private size: number;
-  private used: number;
-  private collisions: number;
-  private lookups: number;
+  private used: number; //Entradas ya ocupadas
+  private collisions: number; //Colisiones: Tokens que quisieron misma entrada
+  private lookups: number; //Num de busquedas
 
   constructor(estimatedSize: number) {
-    this.size = estimatedSize * 3; // igual que el C++: Size * 3
+    this.size = estimatedSize * 3; // Estimar el tamaño de tabla que se ocupará
     this.used = 0;
     this.collisions = 0;
     this.lookups = 0;
 
-    // Inicializar toda la tabla vacía (equivalente al for del constructor C++)
+    // Inicializa todos los cajones como vacíos
+    // key: "" significa vacío, postingPos: -1 significa sin asignar
     this.table = Array.from({ length: this.size }, () => ({
       key: "",
       docCount: 0,
@@ -35,9 +36,11 @@ class HashTable {
     }));
   }
 
-  // Equivalente a Find() en C++ — hash base 19 + linear probing
+  // Calcula en qué posición debería ir el token
+  // Se usa la formula hash base 19, pues es número primo y ayuda a la distribución (evita patrones)
   private find(key: string): number {
     let sum = 0;
+    // Procesa la palabra letra por letra para calcular su posición
     for (let i = 0; i < key.length; i++) {
       sum = (sum * 19 + key.charCodeAt(i)) % this.size; // mismo algoritmo del C++
     }
@@ -47,21 +50,21 @@ class HashTable {
     // Linear probing: busca hasta encontrar la clave o un espacio vacío
     while (this.table[index].key !== "" && this.table[index].key !== key) {
       index = (index + 1) % this.size;
-      this.collisions++;
+      this.collisions++; // Cuántas veces se tuvo que mover por colisión
     }
 
     return index;
   }
 
-  // Equivalente a Insert() en C++
+  // Mete el token en la tabla si no existe aún
   insert(key: string, fileMap: Map<string, number>): void {
     const index = this.find(key);
 
-    if (this.table[index].key === "") {
+    if (this.table[index].key === "") { // Si está vacía la posición, lo guarda
       this.table[index] = {
         key,
         docCount: fileMap.size,
-        postingPos: -1,
+        postingPos: -1, // Se asignará al generar el posting
         fileMap,
       };
       this.used++;
@@ -69,14 +72,15 @@ class HashTable {
     // Si ya existe, no hace nada (igual que el C++)
   }
 
-  // Equivalente a GetData() en C++
+  // Busca un token y regresa cuántos documentos lo contienen
+  // Regresa -1 si el toen no existe en la tabla
   getData(key: string): number {
     this.lookups++;
     const index = this.find(key);
     return this.table[index].key === "" ? -1 : this.table[index].docCount;
   }
 
-  // Equivalente a GetUsage() en C++
+  // Las métricas de la tabla hash para el log
   getUsage(): { used: number; collisions: number; lookups: number } {
     return {
       used: this.used,
@@ -85,7 +89,7 @@ class HashTable {
     };
   }
 
-  // Equivalente a Print() en C++ — genera las filas del diccionario
+  // Creación del diccionario
   generateDictionaryRows(): string[] {
     const rows: string[] = [
       "| # | Token | Núm. documentos | Posición en posting |",
@@ -95,9 +99,9 @@ class HashTable {
     for (let i = 0; i < this.table.length; i++) {
       const e = this.table[i];
       if (e.key === "") {
-        rows.push(`| ${i} |  | 0 | -1 |`);
+        rows.push(`| ${i} |  | 0 | -1 |`); // Si la entrada quedó vacía
       } else {
-        rows.push(`| ${i} | ${e.key} | ${e.docCount} | ${e.postingPos} |`);
+        rows.push(`| ${i} | ${e.key} | ${e.docCount} | ${e.postingPos} |`); // SI está ocupada, muestra los datos del token
       }
     }
 
@@ -111,7 +115,7 @@ class HashTable {
       "|--------------------|------------|",
     ];
 
-    let position = 0;
+    let position = 0; // Cuenta de linea del posting 
 
     for (const entry of this.table) {
       if (entry.key === "") continue;
@@ -133,7 +137,7 @@ class HashTable {
   }
 }
 
-// ─── Principal ─────────────────────────────────────────────────────────────────
+// Ejecución de la tarea
 
 const main = async () => {
   const totalStart = performance.now();
@@ -164,22 +168,21 @@ const main = async () => {
     timings.push({ filename: entry.name, durationMs: fileEnd - fileStart });
   }
 
-  // Paso 2 — insertar en la hash table
+  // Paso 2 — Se crea hashtable en base a estos datos
   const ht = new HashTable(rawStats.size);
 
   for (const [token, fileMap] of rawStats.entries()) {
     ht.insert(token, fileMap);
   }
 
-  // Paso 3 — generar archivos
+  // Paso 3 — Generar los archivos
   const postingRows = ht.generatePostingRows(); // calcula postingPos internamente
   const dictionaryRows = ht.generateDictionaryRows();
   const { used, collisions, lookups } = ht.getUsage();
   const totalMs = performance.now() - totalStart;
 
-  // Paso 4 — log
+  // Paso 4 — Creación de logs
   logLines.push("# Log de procesamiento — a8_leo");
-  logLines.push(`Fecha: ${new Date().toLocaleString("es-MX")}`);
   logLines.push("");
   logLines.push("## Tiempos por archivo");
   logLines.push("| Archivo | Tiempo (ms) |");
@@ -206,15 +209,6 @@ const main = async () => {
   await writeTextFile(dictionaryFile, dictionaryRows.join("\n"));
   await writeTextFile(postingFile, postingRows.join("\n"));
   await writeTextFile(logFile, logLines.join("\n"));
-
-  console.log(`Diccionario : ${dictionaryFile}`);
-  console.log(`Posting     : ${postingFile}`);
-  console.log(`Log         : ${logFile}`);
-  console.log(
-    `Tokens: ${rawStats.size} | Tabla: ${ht.getTableSize()} | Colisiones: ${collisions} | Tiempo: ${
-      totalMs.toFixed(2)
-    } ms`,
-  );
 };
 
 await main();
