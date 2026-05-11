@@ -1,159 +1,311 @@
-LOG DE BÚSQUEDA — a13_leo
-=======================================================
-Query    : lawyer consumer
-Versión  : con stop list
-Fecha    : 4/5/2026, 11:10:56 p.m.
 
-BÚSQUEDA POR TOKEN
--------------------------------------------------------
-Token: lawyer | No encontrado | 2596.403 ms
-Token: consumer | No encontrado | 1948.524 ms
-
-TOP 10 RESULTADOS
--------------------------------------------------------
-
-Tiempo total: 4595.184 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : lawyer hi
+Query    : computer
 Versión  : con stop list
-Fecha    : 4/5/2026, 11:11:06 p.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: lawyer | No encontrado | 2584.861 ms
-Token: hi | Docs: 10 | Posting pos: 7229 | 0.140 ms
+Token: computer | Docs: 46 | Pos: 200700 | 0.978 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
-1. 115_sorted.txt  (score: 0.2237)
-2. 064_sorted.txt  (score: 0.0889)
-3. 354_sorted.txt  (score: 0.0246)
-4. 433_sorted.txt  (score: 0.0123)
-5. 436_sorted.txt  (score: 0.0107)
-6. 373_sorted.txt  (score: 0.0099)
-7. 437_sorted.txt  (score: 0.0096)
-8. 434_sorted.txt  (score: 0.0075)
-9. 043_sorted.txt  (score: 0.0061)
-10. 435_sorted.txt  (score: 0.0039)
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
 
-Tiempo total: 2631.965 ms
+Tiempo total: 128.613 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : customer
+Query    : lawyer
 Versión  : con stop list
-Fecha    : 4/5/2026, 11:11:56 p.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: customer | No encontrado | 2578.681 ms
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.593 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
 
-Tiempo total: 2623.883 ms
+Tiempo total: 288.022 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : customer
+Query    : lawyer
 Versión  : con stop list
-Fecha    : 4/5/2026, 11:16:30 p.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: customer | No encontrado | 2816.066 ms
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.746 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
 
-Tiempo total: 2864.467 ms
+Tiempo total: 105.612 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : customer
+Query    : computer
 Versión  : con stop list
-Fecha    : 4/5/2026, 11:19:01 p.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: customer | No encontrado | 2852.307 ms
+Token: computer | Docs: 46 | Pos: 200700 | 0.469 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
 
-Tiempo total: 2852.839 ms
+Tiempo total: 82.189 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.343 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 74.471 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.472 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 140.587 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 2.914 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 126.444 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.442 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 155.250 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.488 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 141.578 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.548 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 74.225 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.320 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 115.174 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.415 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 44.101 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
 Query    : dog
 Versión  : con stop list
-Fecha    : 4/5/2026, 11:19:33 p.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: dog | No encontrado | 2193.343 ms
-
-TOP 10 RESULTADOS
--------------------------------------------------------
-
-Tiempo total: 2193.735 ms
-
-LOG DE BÚSQUEDA — a13_leo
-=======================================================
-Query    : dog
-Versión  : con stop list
-Fecha    : 4/5/2026, 11:21:38 p.m.
-
-BÚSQUEDA POR TOKEN
--------------------------------------------------------
-Token: dog | No encontrado | 3066.183 ms
-
-TOP 10 RESULTADOS
--------------------------------------------------------
-
-Tiempo total: 3066.666 ms
-
-LOG DE BÚSQUEDA — a13_leo
-=======================================================
-Query    : dog
-Versión  : con stop list
-Fecha    : 4/5/2026, 11:24:36 p.m.
-
-BÚSQUEDA POR TOKEN
--------------------------------------------------------
-Token: dog | No encontrado | 3008.213 ms
-
-TOP 10 RESULTADOS
--------------------------------------------------------
-
-Tiempo total: 3008.859 ms
-
-LOG DE BÚSQUEDA — a13_leo
-=======================================================
-Query    : dog
-Versión  : con stop list
-Fecha    : 4/5/2026, 11:27:04 p.m.
-
-BÚSQUEDA POR TOKEN
--------------------------------------------------------
-Token: dog | No encontrado | 2886.776 ms
-
-TOP 10 RESULTADOS
--------------------------------------------------------
-
-Tiempo total: 2887.196 ms
-
-LOG DE BÚSQUEDA — a13_leo
-=======================================================
-Query    : dog
-Versión  : con stop list
-Fecha    : 5/5/2026, 12:21:50 a.m.
-
-BÚSQUEDA POR TOKEN
--------------------------------------------------------
-Token: dog | Docs: 4 | Pos: 103341 | 0.799 ms
+Token: dog | Docs: 4 | Pos: 103341 | 0.723 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
@@ -162,17 +314,157 @@ TOP 10 RESULTADOS
 3. 019_sorted.txt  (score: 0.0203)
 4. 364_sorted.txt  (score: 0.0120)
 
-Tiempo total: 53.764 ms
+Tiempo total: 115.937 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.453 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 80.547 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.332 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 100.617 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.431 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 76.244 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 3.417 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 161.073 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.381 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 61.641 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.344 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 173.195 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
 Query    : dog
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:43:58 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: dog | Docs: 4 | Pos: 103341 | 0.709 ms
+Token: dog | Docs: 4 | Pos: 103341 | 0.651 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
@@ -181,18 +473,206 @@ TOP 10 RESULTADOS
 3. 019_sorted.txt  (score: 0.0203)
 4. 364_sorted.txt  (score: 0.0120)
 
-Tiempo total: 34.896 ms
+Tiempo total: 176.695 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : dog shit
+Query    : arkansas
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:44:02 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: dog | Docs: 4 | Pos: 103341 | 0.693 ms
-Token: shit | No encontrado | 0.179 ms
+Token: arkansas | Docs: 33 | Pos: 440 | 0.651 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 139.596 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.345 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 76.692 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.569 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 52.980 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 2.359 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 229.338 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 4.696 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 95.661 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.376 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 104.651 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.355 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 159.459 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.465 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 80.930 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.586 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
@@ -201,131 +681,3715 @@ TOP 10 RESULTADOS
 3. 019_sorted.txt  (score: 0.0203)
 4. 364_sorted.txt  (score: 0.0120)
 
-Tiempo total: 37.058 ms
+Tiempo total: 152.806 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : dog customer
+Query    : arkansas
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:44:11 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: dog | Docs: 4 | Pos: 103341 | 0.660 ms
-Token: customer | Docs: 15 | Pos: 91371 | 0.174 ms
+Token: arkansas | Docs: 33 | Pos: 440 | 0.980 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
-1. 059_sorted.txt  (score: 0.5882)
-2. 225_sorted.txt  (score: 0.4608)
-3. 038_sorted.txt  (score: 0.1456)
-4. 248_sorted.txt  (score: 0.1003)
-5. 280_sorted.txt  (score: 0.0923)
-6. 179_sorted.txt  (score: 0.0640)
-7. 037_sorted.txt  (score: 0.0474)
-8. 269_sorted.txt  (score: 0.0451)
-9. 181_sorted.txt  (score: 0.0445)
-10. 189_sorted.txt  (score: 0.0418)
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
 
-Tiempo total: 38.632 ms
+Tiempo total: 115.732 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : user
+Query    : arkansas
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:52:32 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: user | Docs: 28 | Pos: 213952 | 0.423 ms
+Token: arkansas | Docs: 33 | Pos: 440 | 0.546 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
-1. 214_sorted.txt  (score: 2.6316)
-2. 069_sorted.txt  (score: 2.0619)
-3. 003_sorted.txt  (score: 2.0202)
-4. 061_sorted.txt  (score: 1.4815)
-5. 077_sorted.txt  (score: 1.4815)
-6. 029_sorted.txt  (score: 0.9476)
-7. 224_sorted.txt  (score: 0.9174)
-8. 068_sorted.txt  (score: 0.6734)
-9. 004_sorted.txt  (score: 0.5348)
-10. 502_sorted.txt  (score: 0.5222)
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
 
-Tiempo total: 39.078 ms
+Tiempo total: 96.744 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : tech
+Query    : arkansas
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:53:37 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: tech | Docs: 14 | Pos: 183610 | 0.936 ms
+Token: arkansas | Docs: 33 | Pos: 440 | 0.380 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
-1. 039_sorted.txt  (score: 1.3158)
-2. 194_sorted.txt  (score: 0.5976)
-3. 115_sorted.txt  (score: 0.2237)
-4. 141_sorted.txt  (score: 0.0972)
-5. 119_sorted.txt  (score: 0.0654)
-6. 009_sorted.txt  (score: 0.0497)
-7. 235_sorted.txt  (score: 0.0445)
-8. 433_sorted.txt  (score: 0.0215)
-9. 435_sorted.txt  (score: 0.0196)
-10. 434_sorted.txt  (score: 0.0188)
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
 
-Tiempo total: 39.336 ms
+Tiempo total: 65.704 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : read
+Query    : dog
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:53:44 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: read | Docs: 33 | Pos: 147474 | 0.477 ms
+Token: dog | Docs: 4 | Pos: 103341 | 1.572 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
-1. 107_sorted.txt  (score: 1.4085)
-2. 128_sorted.txt  (score: 1.0000)
-3. 012_sorted.txt  (score: 0.7092)
-4. 502_sorted.txt  (score: 0.5222)
-5. 118_sorted.txt  (score: 0.4235)
-6. 254_sorted.txt  (score: 0.3127)
-7. 126_sorted.txt  (score: 0.3049)
-8. 089_sorted.txt  (score: 0.3021)
-9. 209_sorted.txt  (score: 0.2404)
-10. 115_sorted.txt  (score: 0.2237)
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
 
-Tiempo total: 36.516 ms
+Tiempo total: 111.177 ms
 
 LOG DE BÚSQUEDA — a13_leo
 =======================================================
-Query    : read user
+Query    : lawyer
 Versión  : con stop list
-Fecha    : 5/5/2026, 12:53:51 a.m.
+Fecha    : 10/5/2026, 6:46:58 p.m.
 
 BÚSQUEDA POR TOKEN
 -------------------------------------------------------
-Token: read | Docs: 33 | Pos: 147474 | 0.421 ms
-Token: user | Docs: 28 | Pos: 213952 | 0.131 ms
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.760 ms
 
 TOP 10 RESULTADOS
 -------------------------------------------------------
-1. 214_sorted.txt  (score: 2.6316)
-2. 069_sorted.txt  (score: 2.0619)
-3. 003_sorted.txt  (score: 2.0202)
-4. 061_sorted.txt  (score: 1.4815)
-5. 077_sorted.txt  (score: 1.4815)
-6. 107_sorted.txt  (score: 1.4085)
-7. 502_sorted.txt  (score: 1.0444)
-8. 128_sorted.txt  (score: 1.0000)
-9. 029_sorted.txt  (score: 0.9739)
-10. 224_sorted.txt  (score: 0.9174)
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
 
-Tiempo total: 41.632 ms
+Tiempo total: 202.021 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.340 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 109.823 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.394 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 145.632 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 1.307 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 158.182 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.365 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 150.657 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.538 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 210.835 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.679 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 117.791 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 1.346 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 121.117 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.954 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 80.402 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.926 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 117.321 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.343 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 184.826 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.955 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 158.099 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.668 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 134.982 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.925 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 131.006 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.415 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 87.341 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.859 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 140.290 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 1.845 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 114.004 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.316 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 107.078 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.446 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 56.776 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.530 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 135.263 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.425 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 55.706 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 4.493 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 135.520 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.484 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 134.138 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.698 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 113.308 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.451 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 72.393 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.548 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 153.359 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.614 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 55.075 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.627 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 87.800 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.467 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 283.427 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:58 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.422 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 84.541 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.413 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 84.505 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.424 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 89.440 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.601 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 120.850 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.457 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 49.503 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.368 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 68.623 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.344 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 83.348 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 3.287 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 170.667 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.705 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 148.516 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.639 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 105.217 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.362 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 98.095 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.858 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 140.193 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.477 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 154.656 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.453 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 94.808 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.510 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 161.774 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.453 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 335.212 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.413 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 125.370 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.537 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 120.142 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.395 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 121.028 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 2.746 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 281.623 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.991 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 154.651 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.427 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 145.901 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.705 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 270.035 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.625 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 122.381 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 4.222 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 68.006 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.505 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 97.296 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.370 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 130.685 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.381 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 75.928 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 1.498 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 120.454 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 1.532 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 147.732 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 1.672 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 118.844 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 3.517 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 171.942 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.713 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 57.243 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.878 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 136.359 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.291 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 111.821 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.513 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 100.373 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.416 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 67.110 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.405 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 135.062 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.353 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 55.001 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.375 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 136.887 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 5.568 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 121.746 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.408 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 110.996 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.430 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 74.320 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 5.470 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 163.344 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.477 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 117.841 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.360 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 102.936 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.317 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 49.901 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.436 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 157.812 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.979 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 99.336 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.479 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 103.764 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.980 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 183.327 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.537 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 197.336 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.427 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 68.596 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.480 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 116.453 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.336 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 104.979 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 3.156 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 190.176 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.686 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 116.343 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.443 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 136.238 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.462 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 198.353 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.403 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 151.526 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.556 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 60.076 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.618 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 52.238 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.410 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 159.052 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 1.039 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 161.507 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.544 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 102.264 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 3.205 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 189.346 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.585 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 259.882 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 1.530 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 102.333 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 1.708 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 115.396 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 2.629 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 91.680 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 1.076 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 97.995 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.379 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 89.090 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.354 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 60.551 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.390 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 132.121 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.491 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 54.671 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 1.792 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 124.246 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.659 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 82.497 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.505 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 162.600 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.866 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 113.709 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.422 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 120.915 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 1.580 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 156.958 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.569 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 133.587 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.337 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 148.902 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.353 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 129.292 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.387 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 143.955 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.499 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 78.622 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.491 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 111.014 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.412 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 76.896 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.482 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 83.095 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:46:59 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.367 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 143.996 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.555 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 68.113 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.423 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 67.196 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 2.460 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 131.484 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 1.022 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 126.573 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.380 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 113.601 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.386 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 107.125 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.336 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 95.092 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 1.127 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 137.544 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.694 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 104.406 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.659 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 91.387 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.439 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 69.161 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 2.852 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 131.003 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.442 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 101.175 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.461 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 79.196 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 3.219 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 192.488 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.466 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 117.131 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.902 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 120.146 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 3.541 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 325.496 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 3.954 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 80.738 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.301 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 159.937 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 1.114 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 134.445 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.445 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 119.191 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.403 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 94.857 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 1.687 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 249.858 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 1.112 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 164.269 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 2.015 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 158.300 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : elephant
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: elephant | No encontrado | 0.536 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+
+Tiempo total: 96.276 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.730 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 53.377 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.353 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 57.806 mss
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.427 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 193.593 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.552 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 77.005 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 1.331 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 159.810 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.399 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 78.016 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.384 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 121.355 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.439 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 169.293 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.708 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 97.072 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.753 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 69.261 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : gift
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: gift | Docs: 10 | Pos: 177710 | 0.642 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 149_sorted.txt  (score: 0.7813)
+2. 324_sorted.txt  (score: 0.7299)
+3. 180_sorted.txt  (score: 0.6757)
+4. 051_sorted.txt  (score: 0.3484)
+5. 397_sorted.txt  (score: 0.1326)
+6. 074_sorted.txt  (score: 0.1130)
+7. 026_sorted.txt  (score: 0.0978)
+8. 383_sorted.txt  (score: 0.0299)
+9. 298_sorted.txt  (score: 0.0166)
+10. 043_sorted.txt  (score: 0.0122)
+
+Tiempo total: 62.772 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.457 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 54.907 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : computer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: computer | Docs: 46 | Pos: 200700 | 0.407 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 060_sorted.txt  (score: 1.9355)
+2. 502_sorted.txt  (score: 0.7833)
+3. 380_sorted.txt  (score: 0.5663)
+4. 499_sorted.txt  (score: 0.5525)
+5. 038_sorted.txt  (score: 0.4367)
+6. 037_sorted.txt  (score: 0.4265)
+7. 177_sorted.txt  (score: 0.3344)
+8. 317_sorted.txt  (score: 0.3067)
+9. 030_sorted.txt  (score: 0.2604)
+10. 152_sorted.txt  (score: 0.2460)
+
+Tiempo total: 59.733 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.545 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 45.724 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : arkansas
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: arkansas | Docs: 33 | Pos: 440 | 0.290 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 413_sorted.txt  (score: 0.6061)
+2. 400_sorted.txt  (score: 0.6024)
+3. 411_sorted.txt  (score: 0.6024)
+4. 399_sorted.txt  (score: 0.5917)
+5. 430_sorted.txt  (score: 0.5780)
+6. 415_sorted.txt  (score: 0.5747)
+7. 422_sorted.txt  (score: 0.5747)
+8. 424_sorted.txt  (score: 0.5747)
+9. 409_sorted.txt  (score: 0.5747)
+10. 406_sorted.txt  (score: 0.5747)
+
+Tiempo total: 45.458 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : dog
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: dog | Docs: 4 | Pos: 103341 | 0.533 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 390_sorted.txt  (score: 0.0401)
+2. 118_sorted.txt  (score: 0.0302)
+3. 019_sorted.txt  (score: 0.0203)
+4. 364_sorted.txt  (score: 0.0120)
+
+Tiempo total: 72.849 ms
+
+LOG DE BÚSQUEDA — a13_leo
+=======================================================
+Query    : lawyer
+Versión  : con stop list
+Fecha    : 10/5/2026, 6:47:00 p.m.
+
+BÚSQUEDA POR TOKEN
+-------------------------------------------------------
+Token: lawyer | Docs: 9 | Pos: 18070 | 0.446 ms
+
+TOP 10 RESULTADOS
+-------------------------------------------------------
+1. 386_sorted.txt  (score: 1.4533)
+2. 395_sorted.txt  (score: 0.5814)
+3. 445_sorted.txt  (score: 0.1884)
+4. 230_sorted.txt  (score: 0.1364)
+5. 387_sorted.txt  (score: 0.0871)
+6. 378_sorted.txt  (score: 0.0430)
+7. 289_sorted.txt  (score: 0.0320)
+8. 389_sorted.txt  (score: 0.0247)
+9. 381_sorted.txt  (score: 0.0185)
+
+Tiempo total: 64.686 ms
